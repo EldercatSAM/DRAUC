@@ -1,8 +1,4 @@
 ## DRAUC
-
-Official implementation of "DRAUC: An Instance-wise Distributionally Robust AUC Optimization Framework"
-## MaxMatch: Semi-Supervised Learning with Worst-Case Consistency
-
 This is a PyTorch implementation of [DRAUC: An Instance-wise Distributionally Robust AUC Optimization Framework](https://arxiv.org/pdf/2311.03055.pdf).
 
 ### Environments
